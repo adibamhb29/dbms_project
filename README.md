@@ -1,1 +1,2 @@
-# dbms_project
+The php files are for a DBMS project where I worked on two features, faculty consultation booking and student mark uploading system using HTML, CSS and PHP and MySQL. The slide is for a project for the academic course Electronic Devices and Circuits where we were tasked to build a circuit to simulate pressure sensor voltage deviations using op-amps and diodes , then we quantized analog input and visualized levels with LED indicators for real-time feedback.
+.
